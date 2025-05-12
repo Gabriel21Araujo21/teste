@@ -74,3 +74,4 @@ DIGITE AQUI: """))
     else:
         print("=====" * 10)
         print("tchau")
+        break
